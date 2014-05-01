@@ -1,4 +1,4 @@
-### Well hello there! I am the king
+### Well hello there! I am the king 1.0.0 test
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
